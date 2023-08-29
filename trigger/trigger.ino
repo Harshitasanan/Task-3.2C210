@@ -2,9 +2,9 @@
 #include <WiFiUdp.h>
 #include <SPI.h>
 
-const char* ssid = "Harshita 13";
-const char* password = "Sananharshita20";
-const char* resource = "https://maker.ifttt.com/trigger/Sensor_data/with/key/bZNywKivgi2QOJo-agK8KahbHX4WxtxnNui-bjJH7Qg";
+const char* ssid = "Harshi***";
+const char* password = "Sanan***";
+const char* resource = "https://maker.ifttt.com/trigger*****";
 int keyIndex = 0;
 int LED = 3;  // Use pin 3 for LED
 int MOTION_SENSOR = 2;  // Use pin 2 for motion sensor
